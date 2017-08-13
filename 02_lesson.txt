@@ -1,0 +1,71 @@
+Today is Sunday on August 13th
+
+Lesson 2: page 1 and 2
+
+----------------------
+
+1. Computer fundamentals -- overview
+
+Today's world is an information-rich world and it has become a necessity for everyone to know about computers. A computer is an electronic data processing device, which accepts and stores data input, processes the data input, and generates the output as required format.
+The purpose of this tutorial is to introduce you to Computers and its fundamentals.
+
+Functionalities of computer
+It we look at it in a very broad sense, any digital computer carries out the following five functions:
+Step 1: Takes data as input.
+Step 2: Stores the data/instructions in its memory and uses them as required.
+Step 3: Processes the data and converts it into useful information.
+Step 4: Generates the output.
+Step 5: Controls all the above four steps.
+
+Advantages of Computers
+Following are certain advantages of computers:
+High Speed:
+     Computer is a very fast device.
+     It is capable of performing calculation of very large number of data.
+     The computer has unit of speed in microsecond, nanosecond, and even the picosecond.
+     It can preform millions of calculations in a few seconds as compared to a man who will spend many months to preform the same task.
+
+Accuracy:
+    In addition to being very fast, computers are very accurate.
+    The calculation are 100% error free.
+    Computers preform all jobs with 100% accuracy provided that the input is correct.
+
+Storage Capability:
+    Memory is a very important characteristic of computers.
+    A computer has much more storage capacity then human beings.
+    It can store large amount of data.
+    It can store any type of data such as images, videos, text, etc.
+
+Diligence:
+    Unlike human beings, a computer is free from monotony, tiredness, and lack of concentration.
+    It can work continuously without any error and boredom.
+    It can perform repeated takes with the same speed and accuracy.
+
+Versatility:
+    A computer is a very versatile machine
+    a computer is very flexible in performing the jobs to be done.
+    This machine can be used to solve the problems related to various fields.
+    At one instance, it may be solving a complex scientific problem and the very next moment it may be playing a card game.
+
+Reliability:
+    A computer is reliable machine.
+    Modern electronic components have long lives.
+    Computers are designed to make maintenance easy.
+
+Automation:
+    Computer is an automatic machine.
+    Automation is the ability to perform a given task automatically. Once the computer receives a program i.e: the program is stored in the computer memory, then the program and instruction can control the program execution without human instruction.
+
+*** new vocabulary ***
+    necessity
+    function, functional, functionality
+    accuracy
+    characteristic
+    being
+    diligence
+    monotony
+    concentrate, concentration
+    boredom
+    versatile, versatility
+    reliable, reliability
+    
