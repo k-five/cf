@@ -1,0 +1,80 @@
+Today is Monday on August 14th
+
+lesson 03: page 3 and 4
+
+-----------------------
+
+Reduction in Paperwork and Cost
+    The use of computers for data processing in an organization leads to reduction in paperwork and results in speeding up the process.
+    As data in electronic files can be retrieved as and when required, the problem of maintenance of large number of paper files gets reduced.
+    Though the initial investment for installing a computer is high, it substantially reduces the cost of each of its transaction.
+
+Disadvantages of Computers
+    Following are certain disadvantages of computers:
+    No I.Q
+       A computer is a machine that has no intelligence to perform an task.
+       Each instruction has to be given to the computer.
+       A computer cannot take any decision on its own.
+
+    Dependency
+	It functions as per the user's instruction, thus it is fully dependent on humans.
+
+    Environment
+	The operating environment of the computer should be dust free and suitable.
+
+    No Feeling
+       Computers have no feeling or emotions.
+       It cannot make judgment based on feeling, taste, experience, and knowledge unlike humans.
+
+
+2. Computer Fundamentals -- Applications
+
+In this chapter, we will discuss the application of computers in various fields.
+
+Business
+A computer has high speed of calculation, diligence, accuracy, reliability, or versatility which has made it an integrated part in all business organization.
+
+Computer is used in business organization:
+    Payroll calculation
+    Budgeting
+    Sales analysis
+    Financial forecasting
+    Managing employee database
+    Maintenance of stocks, etc.
+
+Banking
+Today, banking is almost totally ??? (depend) on computers.
+
+banks provide the following facilities:
+    Online accounting facility, which includes checking current balance, making deposits and overdraft, checking interest charge, shared, and trustee records.
+    ATM machines which are completely automated are making it even easier for customers to deal with banks.
+
+Insurance
+Insurance companies are keeping all records up-to-date with the help of computers. Insurance companies, finance houses, and stock broking (broke) firms are widely using computers for their concerns.
+Insurance companies are maintaining a database of all clients with information showing:
+    Procedure to continue with policies
+    Starting date of the policies
+    Next due installment of a policy
+    Maturity date
+    Interests due
+    Survival benefits
+    Bonus
+
+new vocabulary overview
+    paperwork
+    substantial, substantially
+    transact, transaction
+    payroll
+    budget
+    stock
+    overdraft
+    trustee
+    finance
+    firm
+    broke
+    procedure
+    installment
+    maturity
+    interest noun
+    survival
+    bonus
