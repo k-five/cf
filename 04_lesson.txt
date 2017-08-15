@@ -1,0 +1,60 @@
+Today is Tuesday on August 15th
+
+Lesson 05: page 5 and 6
+
+-----------------------
+
+Education
+The computer helps in providing a lot of facilities in the education system.
+    The computer provides a tool in the / ? education system known as CBE ( Computer Based Education ).
+    CBE involves control, delivery, and evaluation of leaning.
+    Computer education is rapidly increasing the graph of number of computer students.
+    There are number of methods in which educational institutions can use a computer to educate the students.
+    It is used to prepare a database about performance of a student and analysis is carried out on this basis.
+
+Marketing
+In marketing, uses of the / ? computer are following:
+   Advertising -- With computers, advertising professionals create art and graphics, write and revise copy, and print and disseminate ads with the goal of selling more products.
+   Home Shopping -- Home shopping has been made possible through the use of computerized catalog that provide access to product information and permit direct entry of orders to be filled by the customers.
+
+Heath Care
+Computers have become an important part of hospitals, labs, dispensaries. They are being used in hospitals to keep the record of patients and medicines. It is also used in scanning and diagnosing different diseases. ECG, EEG, ultrasound and CT scans, etc are also done by computerized machines.
+
+Following are some major fields of heath care in which computers are used.
+    Diagnostic System -- Computers are used to collect data and identify the cause of illness.
+    Lab-diagnostic System -- All tests can be done and the reports are prepared by computer.
+    Patient Monitoring System -- These are used to check the patient's signs for abnormality such as in Cardiac Arrest, ECG, etc.
+    Pharma Information System -- Computers is used to check drugs labels, expiry dates, harmful side effects, etc.
+    Surgery -- Nowadays, computers are also used in performing surgery.
+
+Engineering Design
+Computer are wildly used to Engineering purpose.
+One of the major areas is CAD ( Computer Aided Design ) that provides creation and modification of images. Some of the fields are:
+    Structural Engineering -- Requires stress and strain analysis for design of ships, buildings, budgets, airplanes, etc.
+    Industrial Engineering -- Computers deal with design, implementation, and improvement of integrated systems of people, materials, and equipment.
+    Architectural Engineering -- Computers help in planning towns, designing buildings, determining a rage of buildings on a site suing both 2D and 3D drawings.
+
+*** New Vocabulary ***
+    educate, education, educational
+    ad, advertise, advertising
+    rapid, rapidly
+    CBE or Computer Based Education
+    disseminate
+    catalog
+    heath care
+    dispensary, plural form is : dispensaries
+    diagnose
+    ultrasound
+    computerize
+    diagnostic
+    cardiac
+    aid
+    structure, structural
+    engineer
+    industry, industrial
+    architect, architecture, architectural
+    site
+    stress
+    strain
+
+    
