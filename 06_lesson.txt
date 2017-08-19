@@ -1,0 +1,32 @@
+Today is Saturday on August 19th
+
+lesson 6: page 8
+
+----------------
+
+3. Computer Fundamentals -- Generations
+
+Generations in computers terminology is a change in technology a computer is/was being used. Initially, the generation term was used to distinguish between varying hardware technologies. Nowadays, generation include both hardware and software, which together make up an entire computer system.
+There are five computer generations knows till date. Each generation has been discussed in detail along with their time period and characteristics. In the following table, approximate dates against each generation has been mentioned., which are normally accepted.
+
+Following are the main five generations of computers
+1. First Generations
+   The period of first generation: 1946 - 1959. Vacuum tube based.
+   
+2. Second Generations
+   The period of second generations: 1959 - 1965. Transistor based.
+   
+3. Third Generations
+   The period of third generation: 1965 - 1971. Integrated Circuit based.
+   
+4. Fourth Generations
+   The period of fourth generation: 1971 - 1980. VLSI microprocessor based.
+   
+5. Fifth Generations
+   The period of fifth generation: 1980 - onwards. ULSI microprocessor based.
+
+*** new vocabulary ***
+    terminology
+    vacuum
+    integrate, integrated, integrated circuit
+    onwards( also onward )
