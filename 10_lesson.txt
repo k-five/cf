@@ -1,0 +1,36 @@
+Today Is Wednesday On August 23rd1
+
+Lesson 10: Page 13 And 14
+
+-------------------------
+
+Fourth Generaton Computers
+
+The peroid of fourth generation was from 1971 - 1980. Computers of fourth generation used Very Large Scale Integrated (= VLSI) circuits. VLSI circuits having about 5,000 transistors and other circuits elements with their associated circuits on a single chip made is possible to have microcomputers of (the) fourth generation.
+
+Fourth generation computers became more powerful, compact, reliable and affordable. As a result, it gave rise to Personal Computer (= PC) revolution. In this generation, time sharing, real time networks, distributed operating system were used. All the high-level languages like C, C++, DBASE, etc were used in this generation.
+
+The main features of this generation are:
+    VLSI technology used
+    Very cheap
+    Portable and reliable
+    Use of PCs
+    Very small size
+    Pipeline processing
+    No Ac required
+    Concept of the internet was introduced
+    Great developments in the fields of networks
+    Computers became easily available
+
+Some computers of this generations were:
+     DEC 10
+     START 1000
+     PDP 11
+     CRAY-1 (Super Computer)
+     CRAY-X-MP (Super Computer)
+
+*** new vocabulary ***
+    Very Large Scale Integrated
+    pipeline
+    
+
