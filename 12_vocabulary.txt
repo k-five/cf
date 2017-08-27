@@ -1,0 +1,5 @@
+classify
+workstation
+manufacture
+manufacturer
+spreadsheet

@@ -1,0 +1,28 @@
+Today is Sunday on August 27th
+
+lesson page 15 and 16
+
+---------------------
+
+4. Computer Fundamentals -- Types
+
+Computers can be broadly classified by their speed and computation power.
+
+1.	  Personal Computer (= PC)  It is a single user computer system having moderately powerful microprocessor
+2.	  Workstation	       	    It is also a single user computer system, similar to personal computer, however has a more powerful microprocessor
+3.	  Mini Computer		    It is a multiuser computer system, capable of supporting hundreds of users simultaneously.
+4.	  Mini Frame		    It is a multiuser computer system, capable of supporting hundreds of users simultaneously. Software technology is different from minicomputer.
+5.	  Supercomputer		    It is an extremely fast computer, which can execute hundreds of millions of instructions per second.
+
+PC (= Personal Computer)
+A PC can be defined as a small, relatively inexpensive computer designed for an individual user. PCs are based on the microprocessor technology that enables manufacturers to put an entire CPU on one chip. Businesses use personal computers for word processing, accounting, desktop publishing, and for running spreadsheet and database management applications. At home, the most popular use for personal computers is playing games and surfing the Internet.
+Although personal computers are designed as single-user systems, these systems are normally linked together to form a network. IN terms of power, nowadays high-end models of the Macintosh and PC offer the same computing power and graphics capability as low-end workstations by Sun Microsystems, Hewlett-Packard, and Dell.
+
+*** new vocabulary ***
+    classify, classifying, classified, classification
+    workstation
+    simultaneous, simultaneously
+    manufacture, manufacturer(s)
+    spreadsheet
+    capable, capability
+    
