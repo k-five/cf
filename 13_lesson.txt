@@ -1,0 +1,36 @@
+Today is Monday on August 28th
+
+lesson 13 page 15, 16 and 17
+
+----------------------------
+
+Workstation
+Workstation is a computer used for engineering application (CAD/CAM), desktop publishing, software development, and other such types of applications which require a moderate amount of computing power and relatively high quality graphics capabilities.
+Workstations generally come with a large, high-resolution graphics screen, large amount of RAM, inbuilt (= built-in) network support, and a graphical user interface. Most workstations also have mass storage device such as disk drive, but a special type of workstation called diskless workstation, comes without a disk drive.
+Common operating system for workstations are UNIX and Windows NT. Like PC, workstations are also single-user computers like PC but are typically linked together to from a local-area network, although they can also be used as stand-alone systems.
+
+Minicomputer
+It is a midsize multiprocessing system capable of supporting up to 250 users simultaneously.
+
+Mainframe
+Mainframe is very large in size and is an expensive computer capable of supporting hundreds of even thousands of users simultaneously. Mainframe executes many programs concurrently and supports many simultaneous execution of programs.
+
+Supercomputer
+Supercomputer are one of the fastest computers currently available. Supercomputer are very expensive and are employed for specialized applications that require immense amount of mathematical calculations (number crunching).
+For example, weather forecasting, scientific simulations, (animated) graphics, fluid dynamic calculations, nuclear energy research, electronic design, and analysis of geological data (e.g in petrochemical prospecting).
+
+*** new vocabulary ***
+    CAD (= Computer Aided Design)
+    CAM (= Computer Aided Manufacturing)
+    inbuilt (= built-in)
+    diskless (=without any)
+    midsize (or: mid-size or mid-sized)
+    mainframe ( mainframe computer)
+    immense (synonym: enormous, huge)
+    nuclear
+    fluid
+    geology
+    petrochemical
+    prospect
+    simulate, simulation
+    
