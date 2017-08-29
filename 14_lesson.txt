@@ -1,0 +1,31 @@
+Today is Tuesday on August 29th
+
+lesson 14: page 18 and 19
+
+-------------------------
+
+5. Computer Fundamentals -- Components
+
+All types of computers follow the same basic logical structure and perform the following five basic operations for converting raw input date into information useful to their users.
+1.  Take Input	       The process of entering data and instructions into the computer system.
+2.  Store Data	       Saving data and instructions so that they are available for processing as and when required.
+3.  Processing Data    Performing arithmetic and logical operations on data in order to convert them into useful information.
+4.  Output Information The process of producing useful information of results for the user, such as a printed report or visual display.
+5.  Control the workflow   Directs the manner and the sequence in which all of the above operations are performed.
+
+Input Unit
+This unit contains devices with the help of which we enter data into the computer. This unit creates a link between the user and the computer. The input devices translate the information into a form understandable by the computer.
+
+CPU (Central Processing Unit)
+CPU is considered as the brain of the computer. CPU performs all types of data processing operations. In stores data, intermediate results, and instructions (program). In control the operation of all part of the computer.
+CPU (?itself) has the following three components: (in it)
+    ALU (Arithmetic Logic Unit)
+    Memory Unit
+    Control Unit
+
+Output Unit
+The output unit consists of devices with the help of which we get the information from the computer. This unit is a link between the computer and (the) users. Output devices translate the computer's output into a form understandable by (the) users.
+
+*** new vocabulary ***
+    workflow
+    with the help of which
