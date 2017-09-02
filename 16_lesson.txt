@@ -1,0 +1,43 @@
+Today is Saturday on September 2nd
+
+Lesson 16: page 22 and 23
+
+-------------------------
+
+7. Computer Fundamentals -- Input Devices
+
+Following are some of the important devices which are used in a computer:
+	  Keyboard
+	  Mouse
+	  Joystick
+	  Light pen
+	  Track Ball
+	  Graphic Tablet
+	  Microphone
+	  Magnetic Ink Card Reader (MICR)
+	  Optical Character Reader (OCR)
+	  Bar Code Reader (
+	  Optical Mark Reader (OMR)
+
+Keyboard
+Keyboard is the most common and very popular input device which helps to input data to the computer. The layout of the keyboards is like traditional typewriter, although there are some additional keys provided for performing additional functions.
+Keyboards are of two size: 84 keys or 101/102 keys, but now (or nowadays) keyboards with 104 keys or 108 keys are also available for windows and the Internet.
+
+The keys of the keyboard are as follows:
+1.  Typing Key		 These keys included the letter keys (a-z) and digit keys (0-9) which generally give the same layout as that of typewriters.
+2.  Numeric Keypad	 It is used to enter the numeric data or cursor movement. Generally it consists of a set of 17 keys that are laid out in the same configuration used by most adding machines and calculators.
+3.  Function Keys	 The twelve functions keys are present on the keyboard which are arranged in a row at the top of the keyboard. Each function key has a unique meaning and is used for some specific purpose.
+4.  Control Keys	 These keys provide cursor and screen control. It includes four directional arrow keys. Control keys also include Home, End, Insert, Delete, Page Up, Page Down, Control (=Ctrl), Alternate (=Alt), and Escape (Ecs).
+5.  Special Purpose Keys Keyboard also contain some special purpose keys such as Enter, Shift, Caps Lock, Num Lock, Space Bar, Tab and Print Screens.
+
+Mouse:
+Mouse is the most popular pointing devices. It is a very famous cursor-control device having a small palm size box with a round ball at its base, which senses the movement of the mouse and sends corresponding signals to the CPU when the mouse buttons are pressed.
+Generally it is has to buttons called the left and the right button and a wheel is present between the buttons. A mouse can be used to control position of the cursor on the screen, but is cannot be used to enter text into the computer.
+
+*** new vocabulary ***
+    optic
+    optical
+    sense
+    palm
+    Caps 
+	  
