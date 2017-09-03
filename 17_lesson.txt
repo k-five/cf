@@ -1,0 +1,30 @@
+Today is Sunday on September 3rd
+
+lesson 17: page 24 and 25
+
+-------------------------
+
+Joystick
+Joystick is also a pointing device, which is used to move the cursor position on a monitor screen. It is a stick having a spherical ball at its both lower and upper ends. The lower spherical ball move n a socket. The joystick can be moved in all four directions.
+The function of the joystick is similar to (that of) a mouse. It is mainly used in Computer Aided Design (= CAD) and playing computer game.
+
+Light Pen
+Light pen is a pointing device similar to a pen. It is used to select a displayed menu item or draw pictures on the computer screen. It consists if a photocell and an optical system placed in a small tube.
+When the tip of a light pen is moved over the monitor screen and then pen button is pressed, its photocell sensing element detects the screen location and sends the corresponding signal to the CPU.
+
+Track Ball
+Track ball is an input device that is mostly used in notebook or laptop computer, instead of a mouse. This is a ball which is half inserted and by moving fingers on the ball, the pointer can be moved.
+Since the whole device is not moved, a track ball requires less space than a mouse. A track ball comes to in various shapes like a ball, a button or a square.
+
+Scanner
+Scanner is an input device, which works more like a photocopy machine. It is used when some information is available on paper and it is to be transferred to the hard disk of the computer for further manipulation.
+Scanner captures images from the source which are then converted into a digital form that can be stored on the disk. These images can be edited before they are printed.
+
+*** new vocabulary ***
+    joystick
+    sphere, spherical
+    light pen
+    photocell
+    socket
+    photocopy
+    

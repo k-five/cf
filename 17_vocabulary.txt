@@ -1,0 +1,6 @@
+joystick
+spherical
+sphere
+socket
+photocell
+photocopy
