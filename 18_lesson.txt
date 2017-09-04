@@ -1,0 +1,32 @@
+Today is Monday on September 4th
+
+lesson 18 page 26 and 27
+
+------------------------
+
+Digitizer
+Digitizer is an input device which converts analog information into digital form. Digitizer can convert a signal from the television or camera into a series of numbers that could be stored in a computer. They can be used by the computer to create a picture of whatever the camera had been pointed at.
+Digitizer is also known as Tablet or Graphics Tablet as it converts graphics pictorial data into binary inputs. A graphic tablet as digitizer is used for fine works of drawing and image manipulation.
+
+Microphone
+Microphone is an input device to input sound that is then stored in a digital form.
+The microphone is used fro various applications such as adding sound to a multimedia presentation or for mixing music.
+
+Magnetic Ink Card Reader (MICR)
+MICR input device is generally used in banks as there are large number of checks to be processed every day. The bank's code number and check number are printed on the checks with a special type of ink that contains particle magnetic material that are machine readable.
+This reading process is call Magnetic Ink Character Recognition (MICR). The main advantages of MICR is that it is fast and less error-prone.
+
+Optical Character Reader (OCR)
+OCR is an input device used to read a printed text.
+OCR scans the text optically, character by character, converts them into a machine readable code, and stores the text on the system memory.
+
+*** new vocabulary ***
+    digitize
+    digitalize
+    analog
+    digital
+    picture
+    pictorial
+    particle
+    -prone, error-prone
+    
