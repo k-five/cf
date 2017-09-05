@@ -1,0 +1,18 @@
+Today is Tuesday on September 5th
+
+lesson 19 page 28
+
+------------------
+
+Bar Code Reader
+Bar Code Reader is a device used for reading bar code data (data in the form o light and dark lines). Bar coded data is generally used in labeling goods, numbering the books, etc. In may be a hand-held scanner or may be embedded in a stationary scanner.
+Bar Code Reader scans a bar code image, converts it into a alphanumeric value, which is then fed to the computer that the bar code reader is connected to.
+
+Optical Mark Reader (OMR)
+OMR is a special type of optical scanner used to recognize the type of mark made by pen or pencil. It is used where one out of a few alternatives is to be selected and marked.
+It is specially used for checking the answer sheets of examinations having multiple choices questions.
+
+*** new vocabulary ***
+    hand-held
+    Optical Mark Reader OMR
+    alphanumeric
