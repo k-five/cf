@@ -1,0 +1,52 @@
+Today is Wednesday on September 5th
+
+lesson 20 page 29 and 30
+
+------------------------
+
+8. Computer Fundamentals -- Output Device
+
+Following are some of the important output device used in a computer.
+	  Monitors
+	  Graphic Plotter
+	  Pinter
+
+Monitors
+Monitors, commonly called as Visual Display Unit (VDU), are the mean output device of a computer. It form images from tiny dots, called pixels that are arranged in a rectangular form. The sharpness o the image depends upon of pixels.
+There are two types of viewing screen used fro monitors:
+      Cathode-Ray Tube (CRT)
+      Flat-Panel Display
+
+Cathode-Ray Tube (=CRT) Monitor
+The CRT display is made up of small picture elements called pixels. The smaller the pixels, the better the image clarity or resolution. It takes more than one illuminate pixel to form a whole character, such as the letter 'e' in the word "help".
+A finite number of character can be displayed on a screen at once. The screen can be divided into a series of character boxes -- fixed location on the screen where a standard character can be placed. Most screens are capable of displaying 80 characters of data horizontally and 25 lines vertically.
+There are some disadvantages of CRT
+      Large in size
+      High power consumption
+
+Flat-Panel Display Monitor
+The flat-panel display refers to a class of video devices that have reduced volume, weight and power requirement in comparison to the CRT. You can hang them on walls or wear them on your wrists. Current uses of flat-panel display include calculators, video games, monitors, laptop computer, and graphic display.
+
+The flat-panel display is divided into two categories:
+    Emissive Display: Emissive displays are devices that convert electrical energy into light. For example, plasma panel and LED (= Light-Emitting Diodes).
+    Non-Emissive Display: Non-Emissive displays are optical effects to convert sunlight or light from some other source into graphics patterns. For example LCD (= Liquid-Crystal Device).
+
+*** new vocabulary ****
+    plotter
+    sharp, sharpness
+    cathode
+    ray
+    tube
+    cathode-ray tube (CRT)
+    clarity
+    illuminate
+    finite,
+    infinite
+    e-
+    missive
+    e-missive
+    emit (tt)
+    diode
+    LED Light-Emitting Diode
+    LCD	Liquid-Crystal Device
+    

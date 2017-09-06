@@ -1,0 +1,9 @@
+plotter
+sharp
+pixel
+cathode-ray-tube
+illuminate
+finite
+infinite
+diode
+missive
