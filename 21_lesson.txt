@@ -1,0 +1,47 @@
+Today is Saturday on September 9th
+
+lesson 21 page 30, 31 and 32
+
+Printers
+Printer is an output device, which is used to print information on paper.
+There are two types of printers:
+      Impact Printers
+      Non-Impact Printers
+
+Impact Printers
+Impact printers print the characters by striking them on the ribbon, which is then pressed on the paper.
+Characteristics of Impact Printers are the following:
+		very low consumable costs
+		very noisy
+		useful for bulk printing due to low cost
+		there is physical contact with the paper to produce an image
+
+These printers are of two types:
+      character printers
+      line printers
+
+Character Printers:
+Character Printers are the printers which print one character at a time.
+There are further divided into two types:
+      Dot Matrix Printer (= DMP)
+      Daisy Wheel
+
+Dot Matrix Printer
+In the market, one of the most popular printers is Dot Matrix Printer. These printers are popular because of their ease of printing and economical price. Each character printed is in the form of pattern of dogs and head consists of a Matrix of Pins of size (5 * 7, 7 * 9, 9 * 7 and 9 * 9) which come out to form a character which is why it is called Dot Matrix Printer.
+Advantage:
+	inexpensive
+	widely used
+	other language characters can be printed
+
+Disadvantage:
+	slow speed
+	poor quality
+
+
+*** new vocabulary ***
+    strike
+    ribbon
+    daisy
+    DMP Dot Matrix Printer
+    economical
+    
