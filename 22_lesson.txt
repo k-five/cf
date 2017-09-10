@@ -1,0 +1,54 @@
+Today is Sunday on September 10th
+
+lesson 22 page 32 and 33
+
+------------------------
+
+Daisy Wheel
+Head is laying  on a wheel and pins corresponding to characters are like petals of Daisy (flower) which is why it is called Daisy Wheel Printer. These printers are generally used for word-processing in offices that require a few letters to be sent there and there with very nice quality.
+
+Advantage
+	more reliable than DMP
+	better quality
+	fonts of character can be easily changed
+
+Disadvantage
+	slower than DMP
+	noisy
+	more expensive than DMP
+
+Line Printers
+Line printers are the printers which prints one line at time.
+
+These are of two types:
+      drum printer
+      chain printers
+
+Drum Printers
+This printer is like a drum in shape, hence it is called drum printer. The surface of the drum is divided into a number of tracks. Total tracks are equal to the size of the paper, i.e. for a paper width of 132 characters, drum will have 132 tracks. A character set is embossed on the track. Different character sets (that) available in the market are: 48 character set, 64 and 96 character set. One rotation of drum prints one line. Drum prints are fast in speed can print 300 to 2,000 lines per minute.
+
+Advantage
+	very high speed
+
+Disadvantage
+	very expensive
+	characters fonts cannot be changed
+
+Chain Printer
+In this printer, a chain of character sets is used, hence it is called Chain Printer. A standard character set may have 48, 64 or 96 characters.
+
+Advantage
+	character fonts can easily be changed
+	different languages can be used with the same printer.
+
+Disadvantage
+	noisy
+
+
+*** new vocabulary ***
+    petal
+    daisy wheel
+    drum
+    hence
+    emboss
+    
