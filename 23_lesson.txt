@@ -1,0 +1,49 @@
+Today is Monday on September 11th
+
+lesson 23 page 34 and 35
+
+------------------------
+
+Non-impact printers
+Non-impact printers print the characters without using a ribbon. These printers print a complete page at a time., thus they are also called as Page Printers.
+These printers are of two types:
+      Laser printers
+      Inject Printers
+
+Characteristics of non-impact printers
+    Faster than impact printers
+    They are not noisy
+    High quality
+    Supports many fonts and different character size
+
+Laser Printers
+These are non-impact page printers. They use laser lights to produce the dots needed to form the characters to be printed on a page.
+Advantage
+    very high speed
+    very high quality output
+    good graphics quality
+    supports many fonts and different character size
+
+Disadvantage
+    expensive
+    cannot be used to produce multiple copies of a document in a single printing
+
+Inject Printers
+Inject printers are non-impact character printers based on a relatively new technology. They print characters by spaying small drops of ink onto paper. Inject printers produces high quality output with presentable features.
+They make less noise because no hammering is done and these have many styles of printing modes available. Color printing is also possible. Some models of Inject Printers can produce multiple copies of printing also.
+Advantage
+    high quality printing
+    more reliable
+
+Disadvantage
+    expensive as the cost per page is high
+    slow as compared to laser printer
+
+*** new vocabulary ***
+    laser
+    inject
+    relative
+    relatively
+    hammer, hammering
+    present, presentable
+    
