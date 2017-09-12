@@ -1,0 +1,33 @@
+Today is Tuesday on September 12th
+
+lesson 24 page 36 and 37
+
+------------------------
+
+9. Computer Fundamentals -- Memory
+
+A memory is just like a human brain. It is used to store data instructions. Computer memory is the storage space in the computer, where data is to be processed and instructions required for processing are stored. The memory is divided into large number of small parts called cells. Each location or cell has a unique address, which varies from zero to memory size minus one. For example, if the computer has 64k words, than this memory unit has 64 * 1024 memory locations. The address of these locations varies from 0 to 65535.
+Memory is primarily of these types:
+       Cache Memory
+       Primary Memory / Main Memory
+       Secondary Memory
+
+Cache Memory
+Cache memory is a very high speed semiconductor memory which ca n speed up the CPU. it acts as a buffer between the CPU and the main memory. It is used to hold those parts of data and program which are most frequently used by the CPU. The parts of data and program are transferred form the disk to cache memory by the operating system, form where the CPU can access them.
+Advantage
+The advantages of cache memory are as follows:
+    Cache memory is faster than main memory
+    It consumes less access time as compared to main memory
+    It stores the program that can be executed within a short period of time.
+    It stores data for temporary use.
+
+Disadvantage:
+The disadvantage of cache memory are as follows:
+    Cache memory has limited capacity 
+    It is very expansive
+
+*** new vocabulary ***
+    semi-
+    semiconductor
+    capacity
+    
