@@ -1,0 +1,32 @@
+Today is Wednesday on September 13th
+
+lesson 25 page 37 and 38
+
+------------------------
+
+Primary Memory (= Main Memory)
+Primary memory holds only those data and instructions on which the computer is currently working. It has a limited capacity and data is lost when power switched off. It is generally made up of semiconductor device. These memories are not as fast as registers. (The)? data and instructions required to be processed resides in the main memory. It is divided into two subcategories RAM and ROM.
+
+Characteristics of Main Memory
+    These are semiconductor memories. It is known as the main memory.
+    Usually volatile memory.
+    Data is lost in case power is switched off.
+    It is the working memory of the computer.
+    Faster than secondary memories.
+    A computer cannot run without the primary memory.
+
+Secondary Memory
+This type of memory is also known as external memory of non-volatile. It is slower than the main memory. These are used for storing data/information permanently. CPU directly does not access to these memories, instead they are accessed via input-output routines. The contents of secondary memories are first transferred to the main memory, and then the CPU can access it. For example: disk, CD-ROM, DVD, etc.
+
+Characteristics of Secondary Memory
+    These are magnetic or optical memories. It is known as the backup memory.
+    It is a non-volatile memory.
+    Data is permanently stored even if power switched off.
+    It is used for storage data in computer.
+    Computer may run without the secondary memory.
+    Slower than primary memory.
+
+*** new vocabulary ***
+    volatile
+    routine
+    

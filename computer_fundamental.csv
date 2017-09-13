@@ -623,3 +623,12 @@ semiconductor,"# (technical) 1. a solid substance that conducts electricity in a
 = > Catch memory is a very high speed semiconductor memory which can speed up the CPU.",
 ,,
 lesson 25,# page 37 and 38,
+,,
+volatile,"# 1. changing easily from one mood to another 
+= > volatile memory
+# 2. synonym: unstable ",
+routine,"# 1. the normal order and way in which you regularly doing things
+# 4. (computing) a list of instructions that enable computer to perform a particular task 
+= > CPU directly does not access to these memories, instead they are accessed via input-output routines.",
+,,
+lesson 26,# page 39 and 40,
