@@ -632,3 +632,13 @@ routine,"# 1. the normal order and way in which you regularly doing things
 = > CPU directly does not access to these memories, instead they are accessed via input-output routines.",
 ,,
 lesson 26,# page 39 and 40,
+,,
+retain,"# verb. formal. AW. to keep something; to continue to have something | synonym: preserve 
+– > to retain your independent 
+= > The word static indicates that the memory retains its contents as long as power is being supplied.",
+leakage,"# noun. an amount of liquid or gas escaped through a hole in something; an occasion when there is a leak
+– > a leakage of toxic waste into the ocean 
+– > Check bottles for leakage before use.
+= > Transistors do not require power to prevent leakage, so SRAM need not be refreshed on a regular basis. ",
+,,
+lesson 27,# page 40 and 41,

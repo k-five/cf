@@ -1,0 +1,31 @@
+Today is Saturday on September 16th
+
+lesson 26 page 39
+
+10. Computer Fundamentals -- Random Access Memory
+
+RAM (= Random Access Memory) is the internal memory of the CPU for storing data, program, and program result. It is a read/write memory which stores data until the machine is working. As soon as the machine is switched off, data is erased.
+Access time in RAM is independent of the address, that is, each storage location inside the memory is as easy to reach as other locations and takes the some amount of time. Data in the RAM can be accessed randomly but it is very expensive.
+RAM is volatile, i.e. data stored in it is lost when we switch off the computer or if there is a power failure. Hence, a backup Uninterruptible Power System (= UPS) is offten used with computers. RAM is small, both in terms of its physical size and in the amount of data it can hold.
+RAM is of two types:
+    Static RAM (= SRAM)
+    Dynamic RAM (= DRAM)
+
+Static RAM (= SRAM)
+The word static indicates that the memory retains its contents as long as power is being supplied. However, data is lost when the power gets down due to volatile nature. SRAM chips uses a matrix of 6-transistors and no capacitors. Transistors do not require power to prevent leakage, so SRAM need not be refreshed on regular basis.
+There is extra space in the matrix, hence SRAM uses more chips than DRAM for the same amount of storage space, making the manufacturing costs higher. SRAM is thus used as cache memory and has very fast access.
+Characteristic of Static RAM:
+    Long life
+    Ne need to refresh
+    Faster
+    Used as cache memory
+    Large size
+    Expansive
+    High power consumption
+
+*** new vocabulary ***
+    UPS or Uninterruptible Power System
+    retain
+    leakage
+    cache
+    
