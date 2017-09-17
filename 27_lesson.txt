@@ -1,0 +1,37 @@
+Today is Sunday on September on 17th
+
+lesson 27 page 40 and 41
+
+------------------------
+
+Dynamic RAM (= DRAM)
+DRAM, unlike SRAM, must be continually refreshed in order to maintain the data. This is done by placing the memory on a refresh circuit that rewrites the data several hundred times per second. DRAM, is used for most system memory as it is cheap and small. All DRAMs are made up of memory cells, which are composed of one capacitor and one transistor.
+
+Characteristic of Dynamic RAM
+    short data lifetime
+    need to be refreshed continuously
+    slower as compared to SRAM
+    used as RAM
+    smaller in size
+    less expensive
+    lass power consumption
+
+
+11. Computer Fundamental -- Read Only Memory
+
+ROM stands for Read Only Memory. The memory form which we can only read but cannot write on it. The type of memory is non-volatile. The information is stored permanently in such memories during manufacture. A ROM stores such instructions that are required to start a computer. This operation is referred to as bootstrap. ROM chips are not only used in the computer but also in other electronic items like washing machine and microwave oven.
+Let us now discuss the various types of ROM(s) and their characteristics.
+
+MROM (= Masked ROM)
+The very first ROM(s) were hard-wired devices that contained a preprogrammable set of data or instructions. These kind of ROM(s) are known as masked ROM(s), which are inexpensive.
+
+PROM (= Programmable ROM)
+PROM is a read-only memory that can modified only once by a user. The user buys a blank ROM and enters the desired contents using a  PROM program. Inside the PROM chip, there are small fuses which are burnt open during programming. It can be programmed only once and it is erasable.
+
+*** new vocabulary ***
+    read only memory  ROM
+    masked read only memory MROM
+    programmable read only memory PROM
+    bootstrap
+    hard-wired
+    erasable
