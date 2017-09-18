@@ -1,0 +1,34 @@
+Today is Monday on September 18th
+
+lesson 27 page 41 and 42
+
+------------------------
+
+EPROM (Erasable and Programmable Read Only Memory)
+EPROM can be eared by exposing in to ultraviolet light for a duration of up to 40 minutes. Usually, an EPROM eraser achieves this function. During programming, an electrical charge is trapped in an insulated gate region. The charge is retained for more than 10 years because the charge has no leakage path. For erasing this charge, ultraviolet light is passed through a quartz crystal window (lid). This exposure to ultraviolet light dissipates the charge. During normal use, the quartz lid is sealed with a sticker.
+
+EEPROM (Electrically Erasable and Programmable ROM)
+EEPROM is programmed and eared electrically. It can be erased and reprogrammed about thousand times. Both erasing and programming take about 4 to 10 ms (= Millisecond). In EEPROM, any location can be selectively erased and programmed. EEPROM(s) can be erased one byte at a time, rather than erasing the entire chip. Hence the process or reprogramming is flexible but slow.
+
+Advantages of ROM
+The advantages of ROM are as follow:
+    non-volatile in nature
+    cannot be accidentally changed
+    cheaper than RAMs
+    more reliable than RAMs
+    static and do not require refreshing
+    contents are always known and can be verified
+
+*** new vocabulary ***
+    expose
+    ultra
+    violet
+    ultraviolet
+    trap
+    insulate
+    quartz
+    exposure
+    dissipate
+    seal
+    crystal
+    
