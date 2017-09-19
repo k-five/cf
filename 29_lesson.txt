@@ -1,0 +1,39 @@
+Today is Tuesday on September 19th
+
+lesson 29 page 43 and 44
+
+------------------------
+
+12. Computer Fundamentals -- Motherboard
+
+The motherboard serves as a single platform to connect all of the parts of a computer together. It connects the CPU, memory, hard drives, optical derives, video cards, sound cards, and other ports and expansion cards directly or via cables. It can be considered as the backbone of a computer.
+
+Features of Motherboard
+A motherboard comes with following features:
+    Motherboard varies greatly in supporting various types of components
+    Motherboard supports a single type of CPU and few types of memories
+    Video cards, hard disks, sound cards have to be compatible with the motherboard to function properly.
+    Motherboards, cases, and power supplies must be compatible to work properly together.
+
+Popular Manufacturers
+Following are the popular manufacturers of the motherboard:
+    Intel
+    ASUS
+    AOpen
+    ABIT
+    Biostar
+    Gigabyte
+    MSI
+
+Description of Motherboard
+The motherboard is mounted inside the case and is securely attached via small screws through pre-drilled holes. Motherboard contains ports to connect all of the internal components. It provides a single socket for CPU, whereas for memory, normally one or more slots are available. Motherboard provide ports to attach the floppy drive, hard drive, and optical drive via ribbon cables. Motherboard carries fans and special port designed for power supply.
+There is a peripheral card slot in front of the motherboard using which video cards, sound cards, and other expansion cards can be connected to the motherboard.
+On the left side, motherboards carry a number of ports to connect the monitor, printer, mouse, keyboard, speaker, and network cables. Motherboards also provide USB ports, which allow compatible devices to be connected in plug-in/plug-out fashion. For example, pen derive, digital cameras, etc.
+
+*** new vocabulary ***
+    expand, expansion
+    bone, back, backbone
+    drill, pre-drill
+    slot
+    floppy
+    
