@@ -1,0 +1,39 @@
+Today is Wednesday on September 20th
+
+lesson 29 page 45 and 46
+
+------------------------
+
+13. Computer Fundamental -- Memory Unit
+
+Memory unit is the amount of data that can be stored in the storage unit. This storage capacity is expressed in terms of Bytes.
+The following table explains the main memory storage units:
+1.  Bit (Binary Digit)	     A binary digit a logical 0 or 1 representing a passive or active state of components in an electric circuit.
+2.  Nibble		     A group of 4 bits is called nibble.
+3.  Byte		     A group of 8 bits is called Byte. A byte is the smallest unit, which can represent a data item or a character.
+4.  Word		     A computer word, like a byte, is a group of fixed umber of bits processed as a unit. which varies form computer to computer but is fixed for each computer.
+    			     The length of a computer word is called word-size or word-length. It may be as small as 8 bits or or may be as long as 96 bits. A computer stores the information in the form of computers words.
+
+The following table lists some higher storage units:
+1.  Kilobyte  KB    1 KB = 1024 Bytes
+2.  Megabyte  MB    1 MB = 1024 KB
+3.  Gigabyte  GB    1 GB = 1024 MB
+4.  TeraByte  TB    1 TB = 1024 GB
+5.  PetaByte  PB    1 PB = 1024 TB
+
+
+
+14. Computer Fundamental -- Ports
+
+A port is a physical docking point using which an external device can be connected to the computer. It can be programmtic docking point through which information flows form a program to the computer or over the Internet.
+
+Characteristic of Ports:
+A port has the following the characteristics:
+    External devices are connected to a computer using cables and ports.
+    Ports are slots on the motherboard into which a cable of external device is plugged in.
+    Examples of external devices attached via ports are the mouse, keyboard, monitor, microphone, speakers, etc.
+
+*** new vocabulary ***
+    nibble
+    pata-
+    dock (ing)
