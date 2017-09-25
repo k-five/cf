@@ -1,0 +1,32 @@
+Today is Sunday on September 24th
+
+lesson 32 page 49 and 50
+
+15. Computer Fundamental -- Hardware
+
+Hardware represents the physical and tangible components of a computer, i.e. the components that can be seen and touched.
+Example of hardware are the following:
+    Input Device: keyboard, mouse, etc.
+    Output Device: printer, monitor, etc.
+    Secondary Storage Device: Hard Disk, CD, DVD, etc.
+    Internal Components: CPU, motherboard, RAM, etc.
+
+Relationship between hardware and software:
+    Hardware and software are mutually dependent on each other. Both of them must work together to make a computer produce a useful output.
+    Software cannot be utilized without supporting hardware.
+    Hardware without a set of programs to operate upon cannot be utilized and is useless.
+    To get a particular job done on the computer, relevant software should be loaded into the hardware.
+    Hardware is one-time expense.
+    Software development is very expensive and is a continuing expense.
+    Different software applications can be loaded on a hardware to run different jobs.
+    A software acts as an interface between the user and the hardware.
+    If the hardware is the 'heart' of the computer system, then the software is the 'soul'. Both are complementary to each other.
+
+*** new vocabulary ***
+    tangible
+    utilize
+    relevant
+    expense
+    complement
+    complementary
+    

@@ -1,0 +1,29 @@
+Today is Monday on September 25th
+
+lesson 33 page 51
+
+-----------------
+
+16. Computer Fundamental -- Software
+
+Software is a set of programs, designed to preform a well-defined function. A program is a sequence of instructions written to solve a particular problem.
+There are two types of software:
+    System Software
+    Application Software
+
+System Software
+The system software is a collection of programs designed to operate, control and extend the processing capabilities of the computer itself. System software is generally prepared by the computer manufacturers. These software products comprise of? programs written in low-level languages, which interact with the hardware at a very basic level. System software serves as the interface between the hardware and the end users.
+
+Here is a list of some of the most prominent features of a system software:
+    close to the system
+    fast in speed
+    difficult to design
+    difficult to understand
+    less interactive
+    smaller in size
+    difficult to manipulate
+    generally written in low-level language
+
+*** new vocabulary ***
+    comprise
+    prominent

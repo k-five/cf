@@ -1,0 +1,79 @@
+Today is Saturday on September 23rd
+
+lesson 31 page 46, 47 and 48
+
+----------------------------
+
+Let us now discuss a few important types of ports:
+
+Serial Port:
+    Used for external modems and older computer mouse
+    Two versions: 9 pin, 25 pin model
+    Data travels at 115 kilobits per second
+
+Parallel Port:
+    Used for scanners and printers
+    Also called printer port
+    25 pin model
+    IEEE 1284-compliant Centronics port
+
+PS/2 Port:
+    Used for old computer keyboard and mouse
+    Also called mouse port
+    Most of the old computers provide two PS/2 port, each for the mouse and keyboard
+    IEEE 1284-compliant Centronics port
+
+Universal Serial Bus (= USB) Port:
+    It can connected all kinds of external USB devices such as external hard disk, printer, scanner, mouse, keyboard, etc
+    It was introduced in 1997
+    Most of the computers provide two USB ports as minimum
+    Data travels at 12 megabits per seconds
+
+VGA Port:
+    Connects monitor to a computer's video card
+    It has 15 holes
+    Similar to the serial port connector. However, serial port connector has pins, VGA port has holes.
+
+Power Connector:
+    Three-pronged plug
+    Connects to the computer's power cable that plugs into a power bar or wall socket
+
+Firewire Port:
+    Transfers large amount of data at very fast speed
+    Connects camcorders and video equipment to the computer
+    Data travels at 400 to 800 megabits per seconds
+    Invented by Apple
+    It has three variants:
+        4-pin Firewire 400 connector
+	6-pin Firewire 400 connector
+	9-pin Firewire 800 connector
+
+Modem Port:
+    Connects a PC's modem to the telephone network
+
+Ethernet Port:
+    Connects to a network and high speed Internet
+    Connects the network cable to a computer
+    This port resides on an Ethernet Card
+    Data travels at 10 to 1000 megabits per seconds depending upon the network bandwidth.
+
+Game Port:
+    Connects a joystick to a PC
+    Now replaced by USB
+
+Digital Video Interface, DVI port:
+    Connects Flat Panel LCD monitor to the computer's high-end video graphic cards
+    Very popular among video card manufactures.
+
+Sockets:
+    Sockets connect the microphone and speakers to the sound card of the computer.
+
+*** new vocabulary ***
+    modem
+    compliant
+    contronic
+    USB
+    VGA
+    prong
+    camcorder
+    bandwidth
