@@ -1,0 +1,33 @@
+Today is Tuesday on September 26th
+
+lesson 34 page 52
+
+-----------------
+
+Application Software
+
+Application software products are designed to satisfy a particular need of a particular environment. All software applications prepared in the computer lab can come under the category of Application Software.
+Application software may consist of a single program, such as Microsoft's notepad for writing and editing a simple text. It may also consist of a collection of programs, often called a software package, which work together to accomplish a task, such as a spreadsheet package.
+Examples of application software are the following:
+    payroll software
+    student record software
+    inventory management software
+    income tax software
+    railways (= railroad) reservation software
+    microsoft office suite software
+    microsoft word
+    microsoft excel
+    microsoft power-point
+
+Features of application software are as the follows:
+    close to the user
+    easy to design
+    more interactive
+    slow in speed
+    generally written in high-level language
+    easy to understand
+    easy to manipulate
+    bigger in size and requires large storage space
+
+** new vocabulary ***
+   railway == railroad 
