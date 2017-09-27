@@ -1,0 +1,30 @@
+Today is Wednesday on September 27th
+
+lesson 35 page 53
+
+-----------------
+
+17. Computer Fundamental -- Number System
+
+When we type some letters or words, the computer translates them into numbers as computers can understand only numbers. A computer can understand the positional number system where type they are only a few symbols called digits and these symbols represent different values depending on the position they occupy in the number.
+The value of each digit in a number can be determined using:
+    the digit
+    the position of the digit in the number
+    the base of the number system (where the base is defined as the total number of digits available in the number system)
+
+Decimal Number System
+The number system that we use in our day-to-day life is the decimal number system. Decimal number system has base 10 as it uses 10 digits from 0 to 9. In decimal number system, the successive positions to the left of the decimal point represent: units, tens, hundreds, thousands, and so on.
+Each position represents a specific power of the base (10), For example, the decimal number 1234 consists of the digit 4 in the units position, 3 in the tens position, 2 in the hundreds position and 1 in the thousands position. Its value can be written as:
+
+( 1 x 1000  ) + ( 2 x 100 ) + ( 3 x 10 ) + ( 4 x 1 )
+( 1 x 103 ) + ( 2 x 102 ) + ( 3 x 101 ) + ( 4 x 100 )
+1000 + 200 + 30 + 4
+1234
+
+As a computer programmer or an IT professional, you should understand the following number systems which are frequently used in computers.
+1.   Binary Number System      Base 2. Digits used: 0, 1
+2.   Octal Number System       Base 8. Digits used: 0 to 7
+3.   Hexadecimal Number System Base 16. Digits used: 0 to 9 and A to F
+
+*** new vocabulary ***
+    successive
