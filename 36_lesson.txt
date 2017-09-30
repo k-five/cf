@@ -1,0 +1,38 @@
+Today is Satuerday on September 30th
+
+lesson 36 page 54 and 55
+
+------------------------
+
+Binary Number System
+Characteristics of binary number system are as follows:
+    uses two digits, 0 and 1
+    also called as base 2 number system
+    each position in a binary number represents a '0' power of the base (2). example: 20
+    last position in a binary number represents an 'x' power of the base (2). example: 2x where x represents the last position - 1
+
+Example
+Binary Number 10101 (2)
+(see the related table)
+
+Octal Number System
+Characteristics of the octal number system are as follows:
+    uses eight digits: 0,1,2,3,4,5,6,7
+    also called as base (8) number system
+    each position in an octal number represents a '0' power of base (8). example: 80
+    last position in an octal number represents an 'x' power of the base (8). example: 8x where x represents the last position -1
+
+Example
+octal number: 12570 (8)
+(see the related table)
+
+Hexadecimal Number system
+Characteristics of hexadecimal number system are as follows:
+    uses 10 digits and 6 letters: 0,1,2,3,4,5,6,7,8,9 and A,B,C,D,E,F
+    also called as based (16) number system
+    each position in a hexadecimal number represents an '0' power of the base (16). example: 160
+    last position in a hexadecimal number represents an 'x' power of the base (16). example: 16x where x represents the last position -1
+
+Example
+Hexadecimal Number: 19FDE (16)
+(see the related table)
