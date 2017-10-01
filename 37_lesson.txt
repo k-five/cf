@@ -1,0 +1,54 @@
+Today is Sunday on October 1st
+
+page 56 and 57
+
+--------------
+
+18. Computer Fundamental -- Number Conversion
+
+There are many methods or techniques which can be used to convert numbers from one base to another. In this chapter, we will demonstrates the following:
+    decimal to other base system
+    other base system to non-decimal
+    shortcut method - binary to octal
+    shortcut method - octal to binary
+    shortcut method - binary to hexadecimal
+    shortcut method - hexadecimal to binary
+
+Decimal to Other Base System
+Step 1. Divide the decimal number to be converted by the value of the new base.
+Step 2. Get the reminder from step 1 as the rightmost digit (least significant digit) of the new base number.
+Step 3. Divide the quotient of the previous divide by the new base.
+Step 4. Record the reminder form step 3 as the next digit (of the left) of the new base number.
+
+Repeat step 3 and 4, getting reminders from right to left, until the quotient becomes zero in step 3.
+The last reminder thus obtained will be the Most Significant Digit (MSD) of the base number.
+
+Example:
+Decimal Number: 29 (10)
+step    operation    result    reminder
+1	29 / 2	     14	       1
+2	14 / 2	     7	       0
+3	7 / 2	     3	       1
+4	3 / 2	     1	       1
+5	1 / 2	     0	       1
+
+As mentioned in step 2 and 4, the reminders have to be arranged in the reverse order so that the first reminder becomes the Least Significant Digit (LSD) and the last reminder becomes the Most Significant Digit (MSD).
+
+Decimal Number: 29 (10) = Binary Number 11101 (2)
+
+Other Base System to Decimal System
+Step 1. Determine the column (positional) value of each digit (this depends on the position of the digit and the base of the number system)
+Step 2. Multiply the obtained column values (in step 1) by the digits in the corresponding columns.
+Step 3. Sum the products calculated in step 2. The total is the equivalent value in decimal.
+
+Example:
+Binary Number: 11101 (2)
+Calculating Decimal Equivalent:
+
+(see the related table)
+
+Binary Number: 11101 (2) = Decimal Number: 29 (10)
+
+*** new vocabulary ***
+    quotient
+    multiply
