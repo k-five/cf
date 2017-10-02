@@ -1,0 +1,53 @@
+Today is Monday on October 2nd
+
+page 58, 59 and 60
+
+------------------
+
+Other Base System to Non-Decimal System
+Step 1. Convert the original number to a decimal number (base 10).
+Step 2. Convert the decimal number so obtained to the new base number.
+Example:
+octal number: 25 (base: 8)
+step 1. convert to decimal
+(see the related table)
+octal number 25 (base: 8) = decimal number: 21 (base: 10)
+
+step 2: convert decimal to binary
+(see the related table)
+decimal number 21 (base: 10) = binary number: 10101 (base: 2)
+octal number 25 (base: 8) = binary number: 10101 (base: 2)
+
+Shortcut Method -- Binary to Octal
+step 1. Divide the binary digits into groups of three (starting from the right).
+step 2. Convert each group of three binary digits to one octal digit.
+Example:
+binary number: 10101 (base: 2)
+(see the related table)
+binary number 10101 (base: 2) = octal number: 25 (base: 8)
+
+Shortcut method -- Octal to Binary
+step 1. Convert each octal digit to a 3-digit binary number (the octal digits may be treated as decimal for this conversion)
+step 2. Combine all the resulting binary groups (of 3 digits each) into a single binary number.
+
+Example
+octal number: 25 (base: 8)
+(see the related table)
+octal number: 25 (base: 8) = binary number: 10101 (base: 2)
+
+Shortcut Method -- Binary to Hexadecimal
+step 1. Divide the binary digits into groups of four (starting from the right)
+step 2. Convert each group of four binary digits to one hexadecimal symbol.
+Example:
+binary number: 10101 (base: 2)
+(see the related table)
+binary number: 10101 (base: 2) = hexadecimal number: 15 (base: 16)
+
+Shortcut Method - Hexadecimal to Binary
+step 1. Convert each hexadecimal digit to a 4-digit binary number (the hexadecimal digits may be treated as decimal for this conversion)
+step 2. Combine all the resulting binary groups (of 4 digits each) into a single binary number.
+Example
+hexadecimal number: 15 (base: 16)
+(see the related table)
+hexadecimal number: 15 (base: 16) = binary number: 10101 (base: 2)
+
