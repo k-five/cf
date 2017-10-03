@@ -1,0 +1,27 @@
+Today is Tuesday on October 3rd
+
+lesson 39 page 61 and 62
+
+------------------------
+
+19. Computer Fundamental -- Data and Information
+
+Data can be defined as a representation of facts, concepts or instruction in a formalized manner, which should be suitable for communication, interpretation or processing by human or electronic machine.
+Data is represented with the help of characters such as alphabets (A-Z, a-z), digits (0-9) or special characters (+,-,_,\,=,etc).
+
+What is Information?
+Information is organized or classified data, which has meaningful values for the receiver. Information is the processed data on which decision and actions are based
+For the decision to be meaningful, the processed data must qualify for the following characteristics:
+    timely:	     Information should be available when required
+    accuracy:	     Information should be accurate
+    completeness:    Information should be complete
+
+Data Processing Cycle
+Data processing is the re-structuring or re-ordering of data by people or machine to increase their usefulness and add values for a particular purpose. Data processing consist of the following basic steps: input, processing, and output. These three steps constitute the data processing cycle.
+Input: In the step, the input data is prepared in some convenient form for processing. The form will depend on the processing machine. For example, when electronic computers are used, the input data can be recorded on any one of the several types of input medium, such as magnetic disks, tapes and  so on.
+Processing: In this step, the input data is changed to produce data in a more useful form. For example, pay-checks can be calculated from the time cards, or summary of sales for the month can be calculated from the sales orders.
+Output: At this stage, the result of the proceeding processing step is collected. The particular from of the output data depends on the use of the data. For example, output data may by pay-checks for employees.
+
+*** new vocabulary ***
+    stage
+    
