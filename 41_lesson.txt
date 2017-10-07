@@ -1,0 +1,43 @@
+Today is Saturday on October 7th
+
+lesson 41 page 67 and 68
+
+------------------------
+
+21. Computer Fundamental -- Operating System
+
+The operating system is a program with the following features:
+    An operating system is a program that acts as as interface between the software and the  computer hardware.
+    It is an integrated set of specialized program used to mange overall resources and operations of the computer.
+    It is a specialized software that control and monitors the execution of all other programs that reside in the computer, including application programs and other system software.
+
+Objectives of Operating System.
+The objective of the operating system are:
+    To make the computer system convenient to use in an efficient manner.
+    To hide the details of the hardware resources from the users.
+    To provide users a convenient interface to use the computer system.
+    To act as an intermediary between the hardware and its users, making it easier for the users to access and use other resources.
+    To manage the resources of a computer system.
+    To keep track of who is suing which resource, granting requests, and mediating conflicting requests from different programs and users.
+    To provide efficient and fair sharing of resources among users and programs.
+
+Characteristics of Operating System
+Here is a list of some of the most prominent characteristic features of Operating System:
+    Memory Management: Keep track of the primary memory, i.e. what part of it is in use by whom, what part is not in use, etc and allocates the memory when a process or program requests it.
+    Process Management: Allocates the Processor (CPU) to a process and de-allocates the processor when it is no longer required.
+    Device Management: keeps track of all the devices. This is also called I/O controller that decides which process gets the device, when, and for how much time.
+    File Management: Allocates and de-allocates the resources and decides who gets the resources.
+    Job Accounting: Keeps track of time and resources used by various jobs and/or users.
+    Control Over System Performance: Records delays between the request for service and from the system.
+    Interaction with the Operators: Interaction may take place via the console of the computer in the from of instructions. The operating system acknowledges the same, does the corresponding action, and inform the operating by a display screen.
+    Error Detecting Aids: Production of dumps, traces, error messages, and other debugging and error-detecting methods.
+    Coordination Between Other Software and Users: Coordination and assignment of compilers, interpreters and other software to the various users of the computer systems.
+
+*** new vocabulary ***
+    overall
+    mediate, mediating
+    intermediary
+    by means of something
+    acknowledge
+    inform
+    
