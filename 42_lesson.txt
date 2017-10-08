@@ -1,0 +1,31 @@
+Today is Sunday on October 8th
+
+lesson 42 page 69 and 70
+
+------------------------
+
+22. Computer Fundamental -- Internet and Intranet
+
+In the chapter, we will see what is Internet and Intranet, as well as discuss the similarities and differences between the two.
+
+Internet
+It is a worldwide/global system of interconnected computer network. It uses the standard Internet Protocol (TCP/IP). Every computer in Internet is identified by a unique IP address. IP address is a unique set of numbers (such as 110.33.44.114) which identifies a computer's location.
+A special computer DNS (Domain Name Server) is used to provide a name to the IP Address so that the user can locate a computer by a name. For example, a DNS server will resolve a name http://tutorialspoint.com to a particular IP address to uniquely identify the computer on which this website is hosted.
+Internet is accessible to every user all over the world.
+
+Intranet
+Intranet is the system in which multiple PCs are connected to each other. PCs in intranet are not available to the world outside the intranet. Usually each organization has its own intranet network and members/employees of that organization can access the computers in their intranet.
+Each computer in intranet is also identified by an IP address which is unique among the computers int hat network.
+
+Similarities between internet and intranet
+    Intranet uses the internet protocol such as TCP/IP and FTP.
+    Intranet sties are accessible via the web browser is a similar way as websites in the internet. However, only members of intranet network can access intranet hosted site.
+    In intranet, own instant messengers can be used as similar to yahoo messengers/gtalk over the internet.
+
+Differences between internet and intranet
+    Internet is general to PCs all over the world whereas intranet is specific to few PCs
+    Internet provides a wider and better access to websites to a large population, whereas intranet is restricted.
+    Internet is not as safe as intranet. Intranet can be safely privatized as per the need.
+
+*** new vocabulary ***
+    privatize
