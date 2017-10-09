@@ -1,0 +1,55 @@
+Today is Monday on October 8th
+
+lesson 43 page  71 and 72
+
+-------------------------
+
+23. Computer Fundamental -- How to Buy a Computer?
+
+In this chapter, we will supply relevant information to help you buy a desktop on component by component basis. As desktops are highly customizable , so it is better to learn about the main part and then visit the manufacturer or the retailer shop or site, instead of just looking at some specific model directly.
+Popular desktop brand are: Dell, Lenovo, HP and Apple. Always compare the desktops based on their specification and base price.
+
+Monitor
+    Size: It is the diagonal size of the LCD screen. Larger the are, bigger the picture screen. A bigger picture is preferable for movie watching and gaming. It will increase the productivity as well.
+    Resolution: This is the number of pixels on the screen. For example 24-inch display is 1920 x 1200 (width by length) and 22-inch display is 1680 x 1050. High resolution provides better picture quality and a nice gaming experience.
+    Input: Nowadays monitors can accept inputs from cable as well apart from the computer They can also have USB port.
+    Stand: Some monitors come with adjustable stands while some may not
+    Recommended: 24 inch LCD.
+
+Operating System:
+    Operating system is the main software of the computer as everything will run on it in one from of other.
+    There are primarily three choices: Windows, Linux and Apple OS X.
+    Linux is free, however people generally do no use it for home purpose.
+    Apple OS X works only on Apple desktops.
+    Windows 7 is very popular among desktop users.
+    Most of the computers come pre-equipped   with Windows 7 Starter edition.
+    Windows 8 is recently introduced and is available in the market.
+    Windows 7 and Windows 8 come in multiple versions from starter, home basic, home premium, professional, ultimate and enterprise editions.
+    As the edition version increases, their features list and price increases.
+    Recommended: Windows 7 Home Premium.
+
+Optical Drive (CD / DVD / Blu-ray)
+    Optical drive is the drive on a computer, which is responsible for using CD, DVD  and Blu-ray discs.
+    Nowadays DVD burners are industry standards.
+    DVD burner can burn CD, DVD and play them.
+    DVD burner is cheaper than Blu-ray divers.
+    Blu-ray drivers can play HD movies but costlier component.
+    Recommended: DVD burner.
+
+Memory
+    RAM is considered as computer memory as the performance of a computer is directly proportional ti its memory and processor.
+    Today's software and operating system require high memory.
+    Today commonly used RAM is DDR3, which operates at 1066 Mhz.
+    As per Windows 7, 1 GB is the minimum RAM required to function properly.
+    Recommended: 4 GB.
+
+*** new vocabulary ***
+    relevant
+    retail, retailer
+    custom, customize, customizable
+    diagonal
+    stand
+    DVD burner, DVD writer
+    cost, costly, costlier, costliest
+    proportion, proportional
+    
