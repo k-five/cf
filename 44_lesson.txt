@@ -1,0 +1,45 @@
+Today is Tuesday on October 10th
+
+lesson 44 page 73 and 74
+
+------------------------
+
+Hard Drive:
+    Hard disk is used for storage purpose. Higher the capacity, more data you can save in it.
+    Nowadays computers are equipped with 500GB hard drive which can be extended to 2TB.
+    Most hard drives in desktop operate at the standard performance speed of 7200RPM.
+    Recommended: 500GB.
+
+CPU
+    Frequency (GHz) This determines the sped of the processor. Most the speed, better the CPU.
+    Cores. Nowadays CPU(s) come with more than one core, which is like having more than one CPU in the computer. Program which can take advantage of multi-core environment will run faster on such machines.
+    Brand. Intel and AMD, both are equivalent. Intel is  in lead.
+    Cache. Higher the L1, L2 cache, better the CPU performance.
+    Recommended: Inter Core i3-3225 3.30 GHz Processor.
+
+24. Computer Fundamental -- Available Courses
+
+Nowadays various types of courses are provided by educational institution. Following are some of the common as well as important course.
+
+course:          name:                                                               duration (year) 	    minimum qualification
+B.C.A		 Bachelor of Computer Application				     3	      		    10 + 2
+P.G.D.C.A	 Post Graduate Diploma in Computer Application			     1			    Graduation
+M.C.A		 Master of Computer Application	   				     3			    Graduation
+B.S(s) (CS)	 Bachelor of Science (Computer Science)				     3			    10 + 2
+M.S(c) (CS)	 Master of Science (Computer Science)				     2			    Graduation
+B.Tech (CSE)	 Bachelor of Technology (Computer Science and Engineering)	     4			    10 + 2
+B.Tech (IT)	 Bachelor of Technology (Information of Technology)		     4			    10 + 2
+M.Tech (CSE)	 Master of Technology (Computer Science and Engineering)	     2			    B.Tech / B.E
+M.Tech (IT)	 Master of Technology (Information Technology)			     2			    B.Tech / B.E
+B.E (CSE)	 Bachelor of Engineering (Computer Science and Engineering)	     4			    10 + 2
+B.E (IT)	 Bachelor of Engineering (Information Technology)		     4			    10 + 2
+
+Diploma Courses
+Apart from regular degree course, computer enters also provide short-term courses (from 3 months to 1 year). Online courses on topics such as Computer Basics, Programming Languages Training, Hardware Training, and Network Certification are also gaining in popularity.
+
+*** new vocabulary ***
+    RPM
+    diploma
+    bachelor
+    master
+    
