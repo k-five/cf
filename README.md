@@ -14,12 +14,12 @@ What you should notice is that I am a learner like you and still I am learning.
 And I did these for myself. and liked to share it with others, like you :)
 
 I recorded the audio files with my Tablet (= Tab-2. Samsung) in a busy/noisy neighborhood.  
-So I am sorry if you hear any around-me noise. I tired my best -- sometime recording a file
-more than 10 times -- but it is not so bad.
+So I am sorry if you hear any around-me noise. I tired my best -- sometimes recording a file
+toke more than 10 times -- but it is not so bad.
 
 ---
 
 The `.csv` file contains all that new vocabularies plus definition of them and plus a log of examples.
-Example from the Advanced Oxford Dictionary and from the e-book as well.
+Example from the [Advanced Oxford Dictionary](http://www.oxfordlearnersdictionaries.com) and from the e-book as well.
 Also `.odt` version is for you who want to print it or modify it for yourself.
 Although I added a `.pdf` version of the **odt** version, but still you can choose what you want.  
