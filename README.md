@@ -1,6 +1,13 @@
 
-### Computer Fundamental. New vocabulary for Intermediate English Learner
+█░░░█ █▀▀ █░░ █▀▀ █▀▀█ █▀▄▀█ █▀▀  
+█▄█▄█ █▀▀ █░░ █░░ █░░█ █░▀░█ █▀▀  
+░▀░▀░ ▀▀▀ ▀▀▀ ▀▀▀ ▀▀▀▀ ▀░░░▀ ▀▀▀  
+    to Computer Fundamental.  
 
+New vocabulary for Intermediate English Learner   
+
+---  
+  
 This is a complete lesson/approach for you who want learn and improve your vocabulary in computer area.  
 I divided [this e-book: Computer Fundamental](https://www.tutorialspoint.com/computer_fundamentals/) to 44 lessons.
 Each lesson contains:
@@ -23,3 +30,10 @@ The `.csv` file contains all that new vocabularies plus definition of them and p
 Example from the [Advanced Oxford Dictionary](http://www.oxfordlearnersdictionaries.com) and from the e-book as well.
 Also `.odt` version is for you who want to print it or modify it for yourself.
 Although I added a `.pdf` version of the **odt** version, but still you can choose what you want.  
+
+---
+
+## Audio Files  
+Try [this link](https://1drv.ms/f/s!AvgtA0Lw5fIKdmGrEEXZmhIU_zs) and you will see all the `.mfa` files.  
+Then at the top-left, you will see a link/word that says **download**, click on that and it provides you  
+a **cf.zip** file.  
